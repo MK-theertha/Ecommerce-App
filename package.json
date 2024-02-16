@@ -23,7 +23,9 @@
     "nodemailer": "^6.9.9",
     "razorpay": "^2.9.2",
     "stripe": "^14.16.0",
-    "validator": "^13.11.0"
+    "swagger-ui-express": "^5.0.0",
+    "validator": "^13.11.0",
+    "yamljs": "^0.3.0"
   },
   "devDependencies": {
     "eslint": "^8.56.0",
